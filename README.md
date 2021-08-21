@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/GWij9jRnVJy0zuUVWX5G1O" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -68,7 +68,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navaf-nazz/KUTTOOSAN.git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/navaf-nazz/KUTTOOSAN
+$ cd KUTTOOSAN
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/navaf-nazz/KUTTOOSAN
+$ cd KUTTOOSAN
 $ chmod +x *
 $ npm i
 $ node qr.js
