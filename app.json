@@ -1,9 +1,9 @@
 {
-    "name": "PIKACHU BY AMEERSUHAIL",
-    "description": "pikachu bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://raw.githubusercontent.com/ameer-kallumthodi/pikachu/master/Pikachu-407x400.png",
+    "name": "KUTTOOSAN",
+    "description": "KUTTOOSAN bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://github.com/navaf-nazz/KUTTOOSAN/raw/master/KUTTOOSAN-407x400.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
+    "repository": "https://github.com/navaf-nazz/KUTTOOSAN",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
